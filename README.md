@@ -5,7 +5,7 @@
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](https://github.com/doocs/doocs.github.io#how-to-join)
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 
-书籍是人们获取知识的主要途径。然而，如今的社会太浮躁，不少人不愿意花时间静下心来仔细读书，很多开发人员也是如此。殊不知，书籍沉淀了前人的经验和思考。
+Books are the main way people acquire knowledge. However, today's society is too impetuous, and many people are unwilling to take the time to calm down and read carefully, and the same is true of many developers. As everyone knows, the book precipitates the experience and thinking of the predecessors.
 
 写书不易，创作好的作品更是需要耗费很大心力，Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，只要在书籍名称上点击即可跳转到购买页。好书推荐请到 [Discussions 讨论区](https://github.com/doocs/technical-books/discussions/30)，也可以直接提交 [PR](https://github.com/doocs/technical-books/pulls)。
 
