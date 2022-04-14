@@ -1,9 +1,5 @@
 # List of technical books worth reading
 
-[![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
-[![license](https://badgen.net/github/license/doocs/technical-books?color=green)](https://github.com/doocs/technical-books/blob/main/LICENSE)
-[![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](https://github.com/doocs/doocs.github.io#how-to-join)
-[![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 
 Books are the main way people acquire knowledge. However, today's society is too impetuous, and many people are unwilling to take the time to calm down and read carefully, and the same is true of many developers. As everyone knows, the book precipitates the experience and thinking of the predecessors.
 
