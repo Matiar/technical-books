@@ -1,4 +1,4 @@
-# 值得一看的技术类书籍列表
+# List of technical books worth reading
 
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
 [![license](https://badgen.net/github/license/doocs/technical-books?color=green)](https://github.com/doocs/technical-books/blob/main/LICENSE)
