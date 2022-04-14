@@ -7,10 +7,10 @@
 
 Books are the main way people acquire knowledge. However, today's society is too impetuous, and many people are unwilling to take the time to calm down and read carefully, and the same is true of many developers. As everyone knows, the book precipitates the experience and thinking of the predecessors.
 
-写书不易，创作好的作品更是需要耗费很大心力，Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，只要在书籍名称上点击即可跳转到购买页。好书推荐请到 [Discussions 讨论区](https://github.com/doocs/technical-books/discussions/30)，也可以直接提交 [PR](https://github.com/doocs/technical-books/pulls)。
+Writing a book is not easy, and creating a good work requires a lot of effort. Buy genuine books to support the author of the original book. Just click on the book name to jump to the purchase page. For good book recommendations, please go to the Discussions discussion area, or you can submit PR directly.
 
-- Gitee Pages: https://doocs.gitee.io/technical-books
-- GitHub Pages: https://doocs.github.io/technical-books
+- Gitee Pages: N/A
+- GitHub Pages: N/A
 
 | [Core](#core) | [Network](#network) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) | [Tool](#tool) |
 | ------------- | ------------------- | --------------------- | ------------------- | --------------------- | ----------------------------- | --------------------- | ------------- |
